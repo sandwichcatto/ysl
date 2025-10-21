@@ -1,0 +1,4 @@
+num a = 5;
+num b = 10;
+idk c = a + b * 2;
+println(c); # 25

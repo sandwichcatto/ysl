@@ -25,7 +25,7 @@ cmake --build build
 ```
 3.  Run the interpreter:
 ```bash
-./build/bin/ysl examples/hi_mom.ysl
+./build/bin/ysl examples/print.ysl
 ```
 
 

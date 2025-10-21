@@ -1,0 +1,7 @@
+idk x = 7;
+
+check (x % 2 == 0) {
+    println("Even");
+} otherwise {
+    println("Odd");
+}

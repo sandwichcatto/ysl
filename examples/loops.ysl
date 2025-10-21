@@ -1,0 +1,15 @@
+num sum = 0;
+
+# repeat (num i in repeat([0], 5)) {}
+
+repeat (num i in 0..6) {
+  sum = sum + i;
+}
+
+print(sum); // 15
+
+let j = 1;
+while (j <= 5) {
+    print(j);
+    j = j + 1;
+}
